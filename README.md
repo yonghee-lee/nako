@@ -2,4 +2,4 @@
 mini framework for spark microservice
 
 
-<Service>------<Broker>------<Task>
+[Service]------[Broker]------[Task]
